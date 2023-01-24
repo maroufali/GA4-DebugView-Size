@@ -1,0 +1,1 @@
+javascript:function DebugViewFull(){document.querySelector('body > ga-hybrid-app-root > ui-view-wrapper > div > app-root > div > div > ui-view-wrapper > div > admin-home').style.maxWidth = 'none';document.querySelector('.admin-nav-columns.with-selection').style.minWidth='0px';document.querySelector('.admin-nav-columns.with-selection').style.width='0px';}DebugViewFull();
