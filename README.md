@@ -19,3 +19,10 @@ javascript:function DebugViewFull(){document.querySelector('body > ga-hybrid-app
 ```
 ````
 </pre>
+
+
+```js
+function myFunction () {
+   return 42;
+}
+```
