@@ -1,4 +1,4 @@
-# GA4 DebugView (column size problem)
+### GA4 DebugView (column size problem)
 
 JavaScript bookmark to hide the column, this way there is more room for the DebugView.
 
