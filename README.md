@@ -12,5 +12,5 @@ Change the name to ("GA4 DebugView Size") and copy and paste the script ib the U
 Now you can hide the property column if you click the bookmark.
 
 ```js
-javascript:function DebugViewFull(){document.querySelector('body > ga-hybrid-app-root > ui-view-wrapper > div > app-root > div > div > ui-view-wrapper > div > admin-home').style.maxWidth = 'none';document.querySelector('.admin-nav-columns.with-selection').style.minWidth='0px';document.querySelector('.admin-nav-columns.with-selection').style.width='0px';}DebugViewFull();
+javascript:function DebugViewFull(){document.querySelector('body > ga-hybrid-app-root > ui-view-wrapper > div > app-root > div > div > ui-view-wrapper > div > admin-home').style.maxWidth = 'none';document.querySelector('.admin-nav-columns.with-selection').style.minWidth='0';document.querySelector('.admin-nav-columns.with-selection').style.width='0';}DebugViewFull();
 ```
